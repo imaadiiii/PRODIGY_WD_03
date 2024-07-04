@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Web Application
 
-##Checkout my simple Tic-Tac-Toe Web Application
+## Checkout my simple Tic-Tac-Toe Web Application
 
 https://tic-tac-toe-web-application-alpha.vercel.app/
 
